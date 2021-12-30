@@ -2,6 +2,9 @@
 Aplikasi Absensi digital , paperless
 download absensi paperless di playstore kami 
 https://play.google.com/store/apps/details?id=com.SmartAbsensi
+# user dan password default
+username: admin
+password: password
 # Screenshot Web
 ![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/rekapKelas.png?raw=true)
 ![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/rekapSiswa.png?raw=true)
