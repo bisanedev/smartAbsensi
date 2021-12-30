@@ -9,10 +9,10 @@ https://play.google.com/store/apps/details?id=com.SmartAbsensi
 ![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/absensiLihatSiswa.png?raw=true)
 ![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/auditabsensiSiswa.png?raw=true)
 # Screenshot Android
-![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/Screenshot_1613217274.png?raw=true)
-![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/Screenshot_1613221517.png?raw=true)
-![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/Screenshot_1613221520.png?raw=true)
-![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/Screenshot_1613221606.png?raw=true)
+![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/Screenshot_1613217274.png?raw=true | width=200)
+![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/Screenshot_1613221517.png?raw=true | width=200)
+![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/Screenshot_1613221520.png?raw=true | width=200)
+![](https://github.com/bisanedev/smartAbsensi/blob/main/screenshoot/Screenshot_1613221606.png?raw=true | width=200)
 
 
 
